@@ -1,1 +1,1 @@
-![plot1](http://people.trentu.ca/jaherne/eda/plot4.png)
+![plot4](http://people.trentu.ca/jaherne/eda/plot4.png)

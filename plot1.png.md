@@ -1,2 +1,2 @@
-![plot1](https://www.dropbox.com/s/t11x7wpvxjqcl47/plot1.png)
-Format: ![Alt Text](url)
+![plot1](http://people.trentu.ca/jaherne/eda/plot1.png))
+
